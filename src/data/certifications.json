@@ -6,27 +6,12 @@
     "date": "2025",
     "logo": "https://cdn.simpleicons.org/mongodb/47A141",
     "verifyUrl": "/1.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "MONGODB", "DATABASE"],
-    "shortDesc": "Mastered MongoDB schema design patterns, data modeling, and performance optimization.",
-    "longDesc": "Completed comprehensive MongoDB training covering schema design patterns, embedding vs referencing, indexing strategies, and query performance optimization.",
-    "challenge": "Structuring document databases for high-throughput applications while maintaining data consistency.",
-    "approach": "Applied single-field and compound indexing, bucket patterns, and polymorphic schema models.",
-    "result": "Earned official MongoDB Schema Design Optimization certification.",
-    "images": [
-      "/1.webp"
-    ],
-    "skills": ["MongoDB", "Schema Design", "NoSQL"],
-    "tech": [
+    "skills": [
       "MongoDB",
-      "NoSQL",
-      "JSON",
-      "Database Design"
+      "Schema Design",
+      "NoSQL"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/1.webp",
-    "featured": true
+    "category": "course"
   },
   {
     "id": 2,
@@ -35,26 +20,13 @@
     "date": "2025",
     "logo": "https://cdn.simpleicons.org/mongodb/47A141",
     "verifyUrl": "/2.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "MONGODB", "DATABASE"],
-    "shortDesc": "Migrating and mapping RDBMS relational tables to MongoDB document schemas.",
-    "longDesc": "Learned advanced data migration techniques from SQL relational databases to NoSQL MongoDB document stores with embedding and referencing patterns.",
-    "challenge": "Transforming normalized relational tables into high-performance denormalized document models.",
-    "approach": "Analyzed query patterns and application access patterns to design optimal document schemas.",
-    "result": "Earned official MongoDB Relational to Document Model certification.",
-    "images": [
-      "/2.webp"
-    ],
-    "skills": ["MongoDB", "NoSQL", "SQL", "Database Migration"],
-    "tech": [
+    "skills": [
       "MongoDB",
+      "NoSQL",
       "SQL",
-      "Data Modeling"
+      "Database Migration"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/2.webp",
-    "featured": false
+    "category": "course"
   },
   {
     "id": 3,
@@ -63,27 +35,12 @@
     "date": "2025",
     "logo": "https://cdn.simpleicons.org/mongodb/47A141",
     "verifyUrl": "/3.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "MONGODB", "PYTHON"],
-    "shortDesc": "Integrating MongoDB with Python applications using PyMongo driver.",
-    "longDesc": "Learned to perform CRUD operations, aggregation pipelines, and database connections using Python and PyMongo.",
-    "challenge": "Asynchronous and thread-safe MongoDB connection management in Python backend applications.",
-    "approach": "Implemented connection pooling, PyMongo driver configuration, and robust error handling.",
-    "result": "Earned official MongoDB Python Integration certification.",
-    "images": [
-      "/3.webp"
-    ],
-    "skills": ["MongoDB", "Python", "PyMongo"],
-    "tech": [
-      "Python",
-      "PyMongo",
+    "skills": [
       "MongoDB",
-      "Backend API"
+      "Python",
+      "PyMongo"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/3.webp",
-    "featured": false
+    "category": "course"
   },
   {
     "id": 4,
@@ -92,27 +49,12 @@
     "date": "2025",
     "logo": "/icons/Tata.webp",
     "verifyUrl": "/4.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "DATA VISUALIZATION", "ANALYTICS"],
-    "shortDesc": "Creating executive business intelligence dashboards and data visualizations.",
-    "longDesc": "Completed Tata Group's virtual experience program on translating complex datasets into actionable executive insights through interactive visual dashboards.",
-    "challenge": "Communicating high-level data findings to executive decision makers clearly and concisely.",
-    "approach": "Built data visuals, chart hierarchies, and storyboards tailored for business leaders.",
-    "result": "Earned Tata Group Data Visualization certification.",
-    "images": [
-      "/4.webp"
+    "skills": [
+      "Data Visualization",
+      "Business Insights",
+      "Data Analysis"
     ],
-    "skills": ["Data Visualization", "Business Insights", "Data Analysis"],
-    "tech": [
-      "Tableau",
-      "Power BI",
-      "Data Analysis",
-      "Dashboard Design"
-    ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/4.webp",
-    "featured": true
+    "category": "course"
   },
   {
     "id": 5,
@@ -121,26 +63,12 @@
     "date": "2025",
     "logo": "/icons/python.webp",
     "verifyUrl": "/5.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "PYTHON", "PROGRAMMING"],
-    "shortDesc": "Core Python programming principles, algorithms, and software development.",
-    "longDesc": "Comprehensive course covering Python data structures, object-oriented programming, file handling, and algorithmic problem solving.",
-    "challenge": "Building scalable algorithmic scripts and robust object-oriented Python modules.",
-    "approach": "Practiced data structures, modules, OOP design patterns, and unit testing.",
-    "result": "Certified by NSDC and Reliance Foundation Skilling Academy.",
-    "images": [
-      "/5.webp"
-    ],
-    "skills": ["Python", "Programming", "OOP"],
-    "tech": [
+    "skills": [
       "Python",
-      "Data Structures",
-      "Algorithms"
+      "Programming",
+      "OOP"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/5.webp",
-    "featured": false
+    "category": "course"
   },
   {
     "id": 6,
@@ -149,27 +77,13 @@
     "date": "2025",
     "logo": "/icons/ibm.webp",
     "verifyUrl": "/6.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "PYTHON", "DATA SCIENCE"],
-    "shortDesc": "Fundamental Python libraries for data analysis including Pandas and NumPy.",
-    "longDesc": "Mastered foundational data science techniques in Python using NumPy, Pandas, Matplotlib, and Jupyter Notebooks.",
-    "challenge": "Cleaning, manipulating, and analyzing real-world unorganized datasets.",
-    "approach": "Leveraged Pandas DataFrames and NumPy array operations for statistical data processing.",
-    "result": "Earned IBM Python 101 for Data Science badge and certificate.",
-    "images": [
-      "/6.webp"
-    ],
-    "skills": ["Python", "Data Science", "Pandas", "NumPy"],
-    "tech": [
+    "skills": [
       "Python",
+      "Data Science",
       "Pandas",
-      "NumPy",
-      "Jupyter"
+      "NumPy"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/6.webp",
-    "featured": true
+    "category": "course"
   },
   {
     "id": 7,
@@ -178,28 +92,12 @@
     "date": "2025",
     "logo": "/icons/dinq.webp",
     "verifyUrl": "/7.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "IOT", "NETWORKING"],
-    "shortDesc": "IoT networking protocols, sensor hardware, and embedded communication.",
-    "longDesc": "Specialized training on Internet of Things architecture, sensor integration, microcontrollers, and wireless communication protocols.",
-    "challenge": "Establishing low-latency, resilient wireless communication across IoT node networks.",
-    "approach": "Configured MQTT, HTTP, and Wi-Fi/Bluetooth protocols on microcontrollers.",
-    "result": "Certified as IoT-Network Specialist by NSDC and Reliance Foundation.",
-    "images": [
-      "/7.webp"
-    ],
-    "skills": ["IoT", "Embedded Systems", "Networking"],
-    "tech": [
+    "skills": [
       "IoT",
-      "ESP32",
-      "Arduino",
-      "MQTT",
-      "Sensors"
+      "Embedded Systems",
+      "Networking"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/7.webp",
-    "featured": false
+    "category": "course"
   },
   {
     "id": 8,
@@ -208,27 +106,12 @@
     "date": "2025",
     "logo": "https://cdn.simpleicons.org/techmahindra/E31837",
     "verifyUrl": "/8.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "CYBER SECURITY"],
-    "shortDesc": "Fundamental concepts of network security, threat vectors, and data protection.",
-    "longDesc": "Training program covering cyber threats, defensive security strategies, encryption methods, and system vulnerability assessment.",
-    "challenge": "Identifying system vulnerabilities and defending against malware, phishing, and network intrusion.",
-    "approach": "Studied threat intelligence, penetration testing fundamentals, and security hygiene.",
-    "result": "Certified in Cyber Security by Tech Mahindra & NSDC.",
-    "images": [
-      "/8.webp"
-    ],
-    "skills": ["Cyber Security", "Network Security", "AI Basics"],
-    "tech": [
+    "skills": [
       "Cyber Security",
-      "Encryption",
-      "Firewalls",
-      "Network Protocols"
+      "Network Security",
+      "AI Basics"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/8.webp",
-    "featured": false
+    "category": "course"
   },
   {
     "id": 9,
@@ -237,26 +120,12 @@
     "date": "2025",
     "logo": "https://cdn.simpleicons.org/google/4285F4",
     "verifyUrl": "/9.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "GOOGLE", "AI"],
-    "shortDesc": "Google certified student training in Cloud Technologies and Artificial Intelligence.",
-    "longDesc": "Completed Google's specialized student certification covering cloud essentials, AI tools, and Google Cloud services.",
-    "challenge": "Understanding cloud resource management and generative AI integration on Google Cloud.",
-    "approach": "Executed hands-on Google Cloud Labs and AI model interactions.",
-    "result": "Earned Google Student Certification.",
-    "images": [
-      "/9.webp"
-    ],
-    "skills": ["AI", "Google Cloud", "Cloud Computing"],
-    "tech": [
-      "Google Cloud Platform",
+    "skills": [
       "AI",
-      "Cloud Tools"
+      "Google Cloud",
+      "Cloud Computing"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/9.webp",
-    "featured": true
+    "category": "course"
   },
   {
     "id": 10,
@@ -265,27 +134,12 @@
     "date": "2026",
     "logo": "https://cdn.simpleicons.org/upgrad/FF3A44",
     "verifyUrl": "/10.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "PROMPT ENGINEERING", "AI"],
-    "shortDesc": "Mastering LLM prompt structuring, zero-shot/few-shot prompting, and chain-of-thought.",
-    "longDesc": "Deep dive into generative AI prompt patterns, prompt optimization, systemic LLM workflows, and automated content generation.",
-    "challenge": "Minimizing LLM hallucinations and producing deterministic, high-quality responses.",
-    "approach": "Leveraged Chain-of-Thought, Tree-of-Thoughts, and structured role-based prompt frameworks.",
-    "result": "Certified by upGrad in Advanced Prompt Engineering.",
-    "images": [
-      "/10.webp"
-    ],
-    "skills": ["Prompt Engineering", "ChatGPT", "Generative AI"],
-    "tech": [
+    "skills": [
+      "Prompt Engineering",
       "ChatGPT",
-      "Generative AI",
-      "LLMs",
-      "Prompt Engineering"
+      "Generative AI"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/10.webp",
-    "featured": true
+    "category": "course"
   },
   {
     "id": 11,
@@ -294,28 +148,13 @@
     "date": "2026",
     "logo": "https://cdn.simpleicons.org/html5/E34F26",
     "verifyUrl": "/11.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "FRONTEND", "WEB DEVELOPMENT"],
-    "shortDesc": "Modern web design, responsive layouts, HTML5, CSS3, and JavaScript ES6+.",
-    "longDesc": "In-depth front-end development certification covering semantic HTML, modern CSS grid/flexbox, JavaScript DOM manipulation, and interactive web UIs.",
-    "challenge": "Building cross-browser responsive interfaces with fluid animations and clean architecture.",
-    "approach": "Developed component-based interactive web applications following accessibility guidelines.",
-    "result": "Certified in Front-End Development by Reliance Foundation & NSDC.",
-    "images": [
-      "/11.webp"
-    ],
-    "skills": ["HTML", "CSS", "JavaScript", "Responsive Design"],
-    "tech": [
-      "HTML5",
-      "CSS3",
+    "skills": [
+      "HTML",
+      "CSS",
       "JavaScript",
-      "Flexbox",
-      "Grid"
+      "Responsive Design"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/11.webp",
-    "featured": true
+    "category": "course"
   },
   {
     "id": 13,
@@ -324,28 +163,12 @@
     "date": "2026",
     "logo": "/logo.svg",
     "verifyUrl": "/12.webp",
-    "category": "hackathon",
-    "tags": ["ALL", "HACKATHONS", "IOT", "HARDWARE"],
-    "shortDesc": "Building rapid hardware prototypes and IoT solutions during Innoverse Hackathon.",
-    "longDesc": "Participated in Innoverse Hackathon focused on IoT sensor integration, embedded programming, and hardware-software rapid prototyping.",
-    "challenge": "Integrating hardware sensors with real-time web monitoring interfaces under strict time constraints.",
-    "approach": "Developed an ESP32 micro-controller pipeline feeding data to a React frontend.",
-    "result": "Achieved recognition and certificate at Innoverse Hackathon.",
-    "images": [
-      "/12.webp"
+    "skills": [
+      "IOT",
+      "Hardware Integration",
+      "Prototyping"
     ],
-    "skills": ["IOT", "Hardware Integration", "Prototyping"],
-    "tech": [
-      "Arduino",
-      "ESP32",
-      "React",
-      "Node.js",
-      "C++"
-    ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/12.webp",
-    "featured": true
+    "category": "hackathon"
   },
   {
     "id": 14,
@@ -354,27 +177,12 @@
     "date": "2026",
     "logo": "/logo.svg",
     "verifyUrl": "/13.webp",
-    "category": "hackathon",
-    "tags": ["ALL", "HACKATHONS", "INNOVATION", "UI/UX"],
-    "shortDesc": "Rapid product design, innovation pitch, and technical solution framing.",
-    "longDesc": "Competed in the Brainstormers Hackathon focused on design thinking, product innovation, and rapid software solution architecture.",
-    "challenge": "Transforming abstract problem statements into structured tech solutions within hours.",
-    "approach": "Conducted fast user journey mapping, wireframing, and code prototyping.",
-    "result": "Awarded certificate of participation and innovation commendation.",
-    "images": [
-      "/13.webp"
-    ],
-    "skills": ["Product Development", "Design Thinking", "Innovation"],
-    "tech": [
-      "Figma",
-      "React",
+    "skills": [
+      "Product Development",
       "Design Thinking",
-      "Prototyping"
+      "Innovation"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/13.webp",
-    "featured": false
+    "category": "hackathon"
   },
   {
     "id": 15,
@@ -383,27 +191,12 @@
     "date": "2026",
     "logo": "/logo.svg",
     "verifyUrl": "/14.webp",
-    "category": "hackathon",
-    "tags": ["ALL", "HACKATHONS", "SOFTWARE", "FULLSTACK"],
-    "shortDesc": "Full-stack software development sprint solving complex IT challenges.",
-    "longDesc": "Participated in Code Nexus Hackathon, building scalable full-stack web applications and algorithmically solving competitive coding problems.",
-    "challenge": "Building robust backend API services and frontend interfaces in a single sprint.",
-    "approach": "Utilized Node.js REST APIs and React frontend components for rapid delivery.",
-    "result": "Successfully built and presented project, receiving official certificate.",
-    "images": [
-      "/14.webp"
+    "skills": [
+      "IT",
+      "Software Development",
+      "Problem Solving"
     ],
-    "skills": ["IT", "Software Development", "Problem Solving"],
-    "tech": [
-      "React",
-      "Node.js",
-      "Express",
-      "MongoDB"
-    ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/14.webp",
-    "featured": true
+    "category": "hackathon"
   },
   {
     "id": 19,
@@ -412,27 +205,12 @@
     "date": "2026",
     "logo": "/logo.svg",
     "verifyUrl": "/15.webp",
-    "category": "internship",
-    "tags": ["ALL", "INTERNSHIPS", "ENGINEERING", "MANUFACTURING"],
-    "shortDesc": "Hands-on industrial exposure in manufacturing processes and mechanical design.",
-    "longDesc": "Completed an intensive industrial internship at Maiiyam Engineering focusing on production workflows, CAD modeling, and industrial quality control.",
-    "challenge": "Understanding real-world manufacturing tolerances and industrial automation systems.",
-    "approach": "Shadowed senior engineers, inspected machinery, and created production flow diagrams.",
-    "result": "Completed industrial internship with stellar evaluation certificate.",
-    "images": [
-      "/15.webp"
+    "skills": [
+      "Industrial Exposure",
+      "Mechanical Engineering",
+      "Manufacturing"
     ],
-    "skills": ["Industrial Exposure", "Mechanical Engineering", "Manufacturing"],
-    "tech": [
-      "CAD",
-      "Manufacturing",
-      "Quality Control",
-      "Engineering Workflow"
-    ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/15.webp",
-    "featured": true
+    "category": "internship"
   },
   {
     "id": 20,
@@ -441,27 +219,12 @@
     "date": "2025",
     "logo": "/logo.svg",
     "verifyUrl": "/16.webp",
-    "category": "workshop",
-    "tags": ["ALL", "WORKSHOPS", "DRONES", "CONTROL SYSTEMS"],
-    "shortDesc": "UAV flight mechanics, flight controller tuning, and drone aerodynamics.",
-    "longDesc": "Participated in an advanced drone technology workshop covering quadcopter assembly, flight control algorithm tuning, and remote telemetry.",
-    "challenge": "Calibrating PID control loops and telemetry sensors for quadcopter stability.",
-    "approach": "Assembled hardware components, flashed flight controllers, and tested outdoor flight stability.",
-    "result": "Earned Drone & Control Systems Workshop Certification.",
-    "images": [
-      "/16.webp"
+    "skills": [
+      "Drones",
+      "Control Systems",
+      "Flight Mechanics"
     ],
-    "skills": ["Drones", "Control Systems", "Flight Mechanics"],
-    "tech": [
-      "Flight Controllers",
-      "PID Tuning",
-      "Telemetry",
-      "Avionics"
-    ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/16.webp",
-    "featured": false
+    "category": "workshop"
   },
   {
     "id": 21,
@@ -470,26 +233,12 @@
     "date": "2026",
     "logo": "https://cdn.simpleicons.org/hcl/000000",
     "verifyUrl": "/output.webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "AI", "HCL"],
-    "shortDesc": "Artificial Intelligence awareness, ethics, and prompt engineering by HCL & NSDC.",
-    "longDesc": "National skilling initiative by HCL Technologies and NSDC covering AI fundamentals, machine learning awareness, prompt engineering, and ethical AI.",
-    "challenge": "Understanding societal impact of AI models and applying ethical AI guidelines.",
-    "approach": "Engaged in interactive AI modules, prompt challenges, and skill assessments.",
-    "result": "Certified in SOAR - AI Awareness by HCL Technologies & NSDC.",
-    "images": [
-      "/output.webp"
+    "skills": [
+      "AI Awareness",
+      "Embedded Assessment",
+      "Prompt Engineering"
     ],
-    "skills": ["AI Awareness", "Embedded Assessment", "Prompt Engineering"],
-    "tech": [
-      "Artificial Intelligence",
-      "Prompt Engineering",
-      "AI Ethics"
-    ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/output.webp",
-    "featured": true
+    "category": "course"
   },
   {
     "id": 22,
@@ -498,26 +247,12 @@
     "date": "2026",
     "logo": "/icons/nptel.webp",
     "verifyUrl": "/output (1).webp",
-    "category": "course",
-    "tags": ["ALL", "COURSES", "JAVA", "NPTEL"],
-    "shortDesc": "Object-oriented programming, multithreading, and collections in Java.",
-    "longDesc": "Comprehensive NPTEL course covering Java syntax, OOP concepts, exception handling, multithreading, generic collections, and I/O streams.",
-    "challenge": "Mastering memory management, multithreaded concurrency, and Java Collections Framework.",
-    "approach": "Implemented object-oriented design patterns, concurrent threads, and data structure algorithms in Java.",
-    "result": "Earned official NPTEL Java Certification.",
-    "images": [
-      "/output (1).webp"
-    ],
-    "skills": ["Java", "Programming", "OOP", "Multithreading"],
-    "tech": [
+    "skills": [
       "Java",
+      "Programming",
       "OOP",
-      "Multithreading",
-      "Collections Framework"
+      "Multithreading"
     ],
-    "repoUrl": "",
-    "backendUrl": "",
-    "liveUrl": "/output (1).webp",
-    "featured": true
+    "category": "course"
   }
 ]
