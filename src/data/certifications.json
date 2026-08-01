@@ -4,8 +4,8 @@
     "title": "Schema Design Optimization",
     "issuer": "MongoDB",
     "date": "2025",
-    "logo": "https://cdn.simpleicons.org/mongodb/47A141",
-    "verifyUrl": "/1.webp",
+    "logo": "/mongodb.webp",
+    "verifyUrl": "/Schema Design Optimization-CHBKUl2C_p1.webp",
     "skills": [
       "MongoDB",
       "Schema Design",
@@ -18,8 +18,8 @@
     "title": "Relational To Document Model",
     "issuer": "MongoDB",
     "date": "2025",
-    "logo": "https://cdn.simpleicons.org/mongodb/47A141",
-    "verifyUrl": "/2.webp",
+    "logo": "/mongodb.webp",
+    "verifyUrl": "/Relational to Document Model-zvz_IzaW_p1.webp",
     "skills": [
       "MongoDB",
       "NoSQL",
@@ -33,8 +33,8 @@
     "title": "Connecting to MongoDB in Python",
     "issuer": "MongoDB",
     "date": "2025",
-    "logo": "https://cdn.simpleicons.org/mongodb/47A141",
-    "verifyUrl": "/3.webp",
+    "logo": "/mongodb.webp",
+    "verifyUrl": "/Certificates/Connecting-to-MongoDB-in-Python.webp",
     "skills": [
       "MongoDB",
       "Python",
@@ -48,7 +48,7 @@
     "issuer": "Tata Group",
     "date": "2025",
     "logo": "/icons/Tata.webp",
-    "verifyUrl": "/4.webp",
+    "verifyUrl": "/Certificates/Data-Visualization.webp",
     "skills": [
       "Data Visualization",
       "Business Insights",
@@ -58,15 +58,14 @@
   },
   {
     "id": 5,
-    "title": "Python Programming",
+    "title": "IOT-Network Specialist",
     "issuer": "NSDC & Reliance Foundation",
     "date": "2025",
-    "logo": "/icons/python.webp",
-    "verifyUrl": "/5.webp",
+    "logo": "/icons/3.webp",
+    "verifyUrl": "/Certificates/certificate-python-.webp",
     "skills": [
-      "Python",
-      "Programming",
-      "OOP"
+      "IoT",
+      "Networking","Embedded Systems"
     ],
     "category": "course"
   },
@@ -75,8 +74,8 @@
     "title": "Python 101 for Data Science",
     "issuer": "IBM",
     "date": "2025",
-    "logo": "/icons/ibm.webp",
-    "verifyUrl": "/6.webp",
+    "logo": "/icons/python.webp",
+    "verifyUrl": "/Certificates/Certificate-of-Completion-ibm.webp",
     "skills": [
       "Python",
       "Data Science",
@@ -86,26 +85,12 @@
     "category": "course"
   },
   {
-    "id": 7,
-    "title": "IOT-Network Specialist",
-    "issuer": "NSDC & Reliance Foundation",
-    "date": "2025",
-    "logo": "/icons/dinq.webp",
-    "verifyUrl": "/7.webp",
-    "skills": [
-      "IoT",
-      "Embedded Systems",
-      "Networking"
-    ],
-    "category": "course"
-  },
-  {
     "id": 8,
     "title": "Cyber Security",
     "issuer": "Tech Mahindra & NSDC",
     "date": "2025",
-    "logo": "https://cdn.simpleicons.org/techmahindra/E31837",
-    "verifyUrl": "/8.webp",
+    "logo": "/icons/Tech_Mahindra-Logo.wine.webp",
+    "verifyUrl": "/Certificates/certificate-cyber-sercity.webp",
     "skills": [
       "Cyber Security",
       "Network Security",
@@ -118,8 +103,8 @@
     "title": "Google Certification For Students",
     "issuer": "Google",
     "date": "2025",
-    "logo": "https://cdn.simpleicons.org/google/4285F4",
-    "verifyUrl": "/9.webp",
+    "logo": "/icons/google.webp",
+    "verifyUrl": "/Certificates/certificate-google_p1.webp",
     "skills": [
       "AI",
       "Google Cloud",
@@ -132,8 +117,8 @@
     "title": "Advanced Prompt Engineering with ChatGPT",
     "issuer": "upGrad",
     "date": "2026",
-    "logo": "https://cdn.simpleicons.org/upgrad/FF3A44",
-    "verifyUrl": "/10.webp",
+    "logo": "/icons/5.webp",
+    "verifyUrl": "/Certificates/10.webp",
     "skills": [
       "Prompt Engineering",
       "ChatGPT",
@@ -146,8 +131,8 @@
     "title": "Front-End Development",
     "issuer": "Reliance Foundation & NSDC",
     "date": "2026",
-    "logo": "https://cdn.simpleicons.org/html5/E34F26",
-    "verifyUrl": "/11.webp",
+    "logo": "/icons/3.webp",
+    "verifyUrl": "/Certificates/Certificate of Completion-frontend_p1.webp",
     "skills": [
       "HTML",
       "CSS",
@@ -161,8 +146,8 @@
     "title": "Innoverse Hackathon",
     "issuer": "Meenakshi Sundararajan Engineering College",
     "date": "2026",
-    "logo": "/logo.svg",
-    "verifyUrl": "/12.webp",
+    "logo": "/icons/2.webp",
+    "verifyUrl": "/Certificates/16.webp",
     "skills": [
       "IOT",
       "Hardware Integration",
@@ -175,8 +160,8 @@
     "title": "Brainstormers Mini Hackathon",
     "issuer": "Meenakshi Sundararajan Engineering College",
     "date": "2026",
-    "logo": "/logo.svg",
-    "verifyUrl": "/13.webp",
+    "logo": "/icons/4.webp",
+    "verifyUrl": "/Certificates/16.webp",
     "skills": [
       "Product Development",
       "Design Thinking",
@@ -189,8 +174,8 @@
     "title": "Code Nexus Hackathon",
     "issuer": "Meenakshi Sundararajan Engineering College",
     "date": "2026",
-    "logo": "/logo.svg",
-    "verifyUrl": "/14.webp",
+    "logo": "/icons/2.webp",
+    "verifyUrl": "/posters/14.webp",
     "skills": [
       "IT",
       "Software Development",
@@ -204,7 +189,7 @@
     "issuer": "Maiiyam Engineering",
     "date": "2026",
     "logo": "/logo.svg",
-    "verifyUrl": "/15.webp",
+    "verifyUrl": "/Certificates/16.webp",
     "skills": [
       "Industrial Exposure",
       "Mechanical Engineering",
@@ -218,7 +203,7 @@
     "issuer": "Meenakshi Sundararajan Engineering College",
     "date": "2025",
     "logo": "/logo.svg",
-    "verifyUrl": "/16.webp",
+    "verifyUrl": "/Certificates/16.webp",
     "skills": [
       "Drones",
       "Control Systems",
@@ -246,7 +231,7 @@
     "issuer": "NPTEL",
     "date": "2026",
     "logo": "/icons/nptel.webp",
-    "verifyUrl": "/output (1).webp",
+    "verifyUrl": "/nptel",
     "skills": [
       "Java",
       "Programming",
