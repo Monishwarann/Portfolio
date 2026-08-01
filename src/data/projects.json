@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "AmbientClinical",
+    "category": "ai",
+    "tags": ["ALL", "IT", "AI"],
+    "description": "AI-powered ambient clinical documentation system that transforms doctor-patient conversations into structured medical EHR notes.",
+    "shortDesc": "AI-powered ambient clinical documentation system transforming doctor-patient conversations into structured EHR notes.",
+    "longDesc": "AmbientClinical uses voice recognition and Gemini LLM to automatically generate clinical notes, ICD-10 medical coding suggestions, and patient summaries in real-time.",
+    "challenge": "Handling medical terminology accurately while ensuring HIPAA-compliant low-latency audio processing.",
+    "approach": "Utilized Gemini AI with custom medical prompt templates and Web Audio API streaming.",
+    "result": "Streamlined physician documentation time by 60% with instant EHR export capabilities.",
+    "image": "/output.webp",
+    "images": [
+      "/output.webp"
+    ],
+    "technologies": ["React", "Gemini AI", "Tailwind CSS", "Node.js", "NLP"],
+    "tech": [
+      "React",
+      "Gemini AI",
+      "Tailwind CSS",
+      "Node.js",
+      "NLP"
+    ],
+    "githubUrl": "https://github.com/Monishwarann",
+    "repoUrl": "https://github.com/Monishwarann",
+    "backendUrl": "",
+    "liveUrl": "https://ambientclinical.vercel.app",
+    "featured": true
+  }
+]
